@@ -1,0 +1,14 @@
+Public class main {
+
+    public static void main(String[] args) {
+        String Name = "Naomi";
+        System.out.println(Name);
+        int mynumber = 16;
+        System.out.println(mynumber);
+        int x = 7;
+        int y = 30;
+        System.out.println("The sum is: " + (x + y));
+        
+    }
+
+}
