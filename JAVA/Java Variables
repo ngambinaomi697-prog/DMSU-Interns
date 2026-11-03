@@ -12,6 +12,31 @@ Public class main {
         int y = 30;
         int z =30;
         System.out.println("The sum is:"+ (x+y+z));//=67
+        //declaring multiple variables in one line
+        int x,y,z;
+        x=y=z=10000;
+        System.out.println(x+ y+ z);
+        //Real life example of variables
+        //Student Data
+        String studentName = "Elomie";
+        int studentID =98765;
+        int studentAge = 16;
+        float studentGPA = 3.5f;
+        char studentGrade = 'A';
+        System.out.println("Student Name: " + studentName);
+        System.out.println("Student ID: " + studentID);
+        System.out.println("Student Age: " + studentAge);
+        System.out.println("Student GPA: " + studentGPA);
+        System.out.println("Student Grade: " + studentGrade);
+    }
+
+}
+    
+    
+
+
+
+
     }
 
 }
