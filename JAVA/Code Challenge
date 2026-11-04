@@ -1,8 +1,0 @@
-Public class Main {
-    public static void main(String[] args) {
-        String Name = "Naomi";
-        int Age = 16;
-        System.out.println(Name);/*This will print the name of the person*/
-        System.out.println(Age);//She will be 17 in 2027
-    }
-}
