@@ -7,5 +7,5 @@ print(f"Average: {round(sum(temperatures) / len(temperatures), 1)}")
 fevers = 0
 for temp in temperatures:
     if temp >=37.5:
-       fevers += 1
+       fevers += 2
 print(f"Fevers: {fevers}")
